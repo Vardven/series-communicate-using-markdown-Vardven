@@ -9,6 +9,9 @@ $ git init
 - [x] This item is complete
 - [ ] This item is not complete
 # 标题3
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 # 标题4
 # 标题5
 # 标题6
